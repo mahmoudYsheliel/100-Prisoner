@@ -2,9 +2,8 @@
 
 This is a simple web game that shows the **100 prisoners problem** in action. It uses only HTML, CSS, and JavaScript. You can run it in any browser — no installation needed.'
 
+![Screencast from 05-06-2025 03-50-50 PM](https://github.com/user-attachments/assets/2c5befdc-c19f-4a8b-a776-b4b0360fcef5)
 
-
-![Uploading Screencast from 05-06-2025 03-50-50 PM.gif…]()
 
 ---
 
