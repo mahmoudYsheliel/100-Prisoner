@@ -4,7 +4,6 @@ This is a simple web game that shows the **100 prisoners problem** in action. It
 
 ![Uploading Screencast from 05-06-2025 03-50-50 PM.gif…]()
 
-
 ---
 
 ##  What is the 100 Prisoners Problem?
