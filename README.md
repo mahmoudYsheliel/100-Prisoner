@@ -1,4 +1,4 @@
-![Screencast from 05-06-2025 03-50-50 PM](https://github.com/user-attachments/assets/2090bc6a-c1e9-4e68-8f9c-ba05d92895bd)# 🎯 100 Prisoners Problem - Web Game
+# 🎯 100 Prisoners Problem - Web Game
 
 This is a simple web game that shows the **100 prisoners problem** in action. It uses only HTML, CSS, and JavaScript. You can run it in any browser — no installation needed.'
 
