@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: EE1118 ;
+    text-transform: uppercase;
+    gap: 50px;
+}
+
+h1{
+    margin-top:20px ;
+    font-size: 80px;
+    color: 18EE11;
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(10,70px);
+    grid-template-rows: repeat(10,70px);
+    gap: 15px;
+    font-size: 20px;
+}
+
+.result{
+    display: flex;
+    justify-content: space-around;
+    width: 900px;
+    font-size: 40px;
+}
+.show_info{
+    display: flex;
+    justify-content: space-around;
+    width: 900px;
+    font-size: 40px;
+}
+.total{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+.win{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+.search{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+.count{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+
+
+
+.card{
+    background-color: blue;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    transition-duration: 0.5s;
+}
+
+.card:hover{
+    cursor: pointer;
+    scale: 1.2;
+}
+
+.reavealed{
+    background-color: chartreuse;
+}
+.right{
+    background-color: whitesmoke;
+}
